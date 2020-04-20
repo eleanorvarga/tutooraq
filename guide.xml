@@ -1,0 +1,667 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="OSN Movies First HD">
+    <display-name lang="en">OSN Movies First HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OM1.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies First HD +2h">
+    <display-name lang="en">OSN Movies First HD +2h</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OMX.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies HD">
+    <display-name lang="en">OSN Movies HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OPR.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ART Aflam 1">
+    <display-name lang="en">ART Aflam 1</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AF1.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ART Aflam 2">
+    <display-name lang="en">ART Aflam 2</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AF2.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ART Cinema">
+    <display-name lang="en">ART Cinema</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ACM.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Cinema 1">
+    <display-name lang="en">Cinema 1</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/CM1.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Cinema 2">
+    <display-name lang="en">Cinema 2</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/CM2.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <programme start="20200420010000 +0000" stop="20200420024000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Off The Menu</title>
+    <title lang="ar">أوف ذا منيو</title>
+    <desc lang="en">An unlikely heir to a Mexican fast-food franchise goes 'cuisine' hunting for the next culinary big thing, and finds himself in a small, dusty New Mexican town where foodies come from all over the world to salivate over the culinary treats of a local, authentic, and feis. يذهب وريث سلسلة المطاعم المكسيكية للوجبات السريعة في رحلة للبحث عن مشروع طبخ جديد ليجد نفسه في بلدة مكسيكية صغيرة يأتي إليها محبي الطعام من جميع أنجاء العالم لتذوق أطباق مطعم محلى أصلي تمتلكه فتاة مشاغبة.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/off-the-menu-l.jpg" />
+  </programme>
+  <programme start="20200420024000 +0000" stop="20200420043000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Bigger</title>
+    <title lang="ar">بيغر</title>
+    <desc lang="en">Drama starring Tyler Hoechlin and Julianne Hough. The inspirational tale of the grandfathers of fitness as we now know it, Joe and Ben Weider. Facing anti-Semitism and extreme poverty, the brothers beat all odds to build an empire and inspire future generations. فيلم درامي من بطولة تايلور هيوتشلن وجوليان هيو. القصة الملهمة للشقيقان جوي وبين وايدر اللذان أدت جهودهما إلى صياغة مفهوم اللياقة البدنية كما نعرفه حالياً. ورغم ما تعرضا له في حياتهما من معاداة للسامية وفقر مدقع، نجح الشقيقان في تحدي الصعاب وإنشاء امبراطورية مالية بالإضا.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/osnmoviesfirst.jpg" />
+  </programme>
+  <programme start="20200420043000 +0000" stop="20200420061500 +0000" channel="OSN Movies First HD">
+    <title lang="en">The Man Who Invented  Christmas</title>
+    <title lang="ar">مان هو انفينتد كريسماس</title>
+    <desc lang="en">Comedy and drama starring Dan Stevens and Morfydd Clark. The journey that led to Charles Dickens' creation of "A Christmas Carol," a timeless tale that would redefine Christmas. دراما كوميدية من بطولة دان ستيفنز ومورفيد كلارك. قصة الرحلة التي ألهمت تشارلز ديكنز لتأليف "أيه كريسماس كارول"، تلك الرواية الخالدة التي أضفت مفهوماً جديداً للكريسماس.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/osnmoviesfirst.jpg" />
+  </programme>
+  <programme start="20200420061500 +0000" stop="20200420075500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Teen Star Academy</title>
+    <title lang="ar">تين ستار أكاديمي</title>
+    <desc lang="en">Family comedy. Becoming a "Star" is often the dream of many kids and young guys, or the fulfillment of the parent's missed dreams and so here we are, in a very special School called "Teen Star Academy. كوميدي وعائلي. النجومية أو تحقيق ما لم يستطيع الآباء تحقيقه هو حلم كثير من الأطفال والشباب، وها نحن الآن في هذه المدرسة المميزة " تين ستار أكاديمي " التي يتحول فيها الحلم إلى حقيقة.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/teen-star-academy-l.jpg" />
+  </programme>
+  <programme start="20200420075500 +0000" stop="20200420092500 +0000" channel="OSN Movies First HD">
+    <title lang="en">In The Key Of Love</title>
+    <title lang="ar">إن ذا كي أوف لاف</title>
+    <desc lang="en">Romance. Photographer Maggie learns her ex-boyfriend/ex-singing partner is in the wedding she is working. Tensions run high until they sing together, remembering how good they were as a duo. رومانسية. تتصاعد التوترات عندما تعلم ماغي المصورة أن صديقها السابق والذي كان أيضاً شريكها السابق في الغناء موجوداً في الفرح الذي تعمل به إلى أن يغنيان معاً ويتذكران الماضي.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/in-the-key-ol-l.jpg" />
+  </programme>
+  <programme start="20200420092500 +0000" stop="20200420110000 +0000" channel="OSN Movies First HD">
+    <title lang="en">The Griddle House</title>
+    <title lang="ar">ذا غريدل هاوس</title>
+    <desc lang="en">Drama, The story follows teenager Jack Benson, who is on the hunt for his birth mother. He finds she has been a regular all along at the nearby Griddle House. دراما. يسعى الشاب جاك بنسون للبحث عن أمه الحقيقية. ولقد اكتشف إنها كانت دائمة التواجد بـ" غريدل هاوس".(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/The-Griddle-House-l.jpg" />
+  </programme>
+  <programme start="20200420110000 +0000" stop="20200420124000 +0000" channel="OSN Movies First HD">
+    <title lang="en">The Divorce Party</title>
+    <title lang="ar">ذا ديفورس بارتي</title>
+    <desc lang="en">Comedy Romance, A recently dumped divorcee in his late-twenties sets out to plan a wedding-sized divorced party in an attempt to get his life back on track. كوميدي ورومانسي. يخطط المطلق حديثاً في أواخر العشرينات من عمره لإقامة حفل طلاق في محاولة لإستعادة حياته.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/the-devorce-party-l.jpg" />
+  </programme>
+  <programme start="20200420124000 +0000" stop="20200420141000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Auggie</title>
+    <title lang="ar">أوغي</title>
+    <desc lang="en">Sci-Fi Drama. Forced into early retirement, Felix Greystone falls in love with an augmented reality companion, to the detriment of his relationship with his wife and daughter. دراما وخيال علمي. يقع فيليكس غرايستون بعد أن أُجبر على التقاعد المبكر في حب رفيق الواقع المدمج مما يؤثر على علاقته بزوجته وابنته.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/auggie-l.jpg" />
+  </programme>
+  <programme start="20200420141000 +0000" stop="20200420162500 +0000" channel="OSN Movies First HD">
+    <title lang="en">The Wizard Of Lies</title>
+    <title lang="ar">ذا ويزرد أوف لايز</title>
+    <desc lang="en">Biographical drama examining Bernie Madoff's (Robert De Niro) Ponzi scheme, his deception, lies and cover-up, all as the financier's wife (Michelle Pfeiffer) and sons are catapulted into a harsh and unrelenting spotlight. دراما  سيرة ذاتية تسلط الضوء على بيرني مادوف بونزي (روبرت دي نيرو)، صاحب الخداع والكذب والتستر، وعلى زوجة هذا الممول (ميشيل فايفر) وأبنائه أيضاً.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/wizard-of-lies2017-l.jpg" />
+  </programme>
+  <programme start="20200420162500 +0000" stop="20200420180000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Blue Night</title>
+    <title lang="ar">Blue Night</title>
+    <desc lang="en">Flagship movie channel with the first exclusive and most recent movies featuring the most high profile premieres and biggest blockbusters airing here 9-10 months before any other channel. قناة الأفلام الرائدة التي تعرض الأعمال السينمائية الحصرية الأولى والأحدث، شاهدوا  العروض الأولى للأفلام البارزة التي تبث هنا من تسعة إلى عشرة أشهر قبل أية قناة أخرى.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/osnmoviesfirst.jpg" />
+  </programme>
+  <programme start="20200420180000 +0000" stop="20200420194500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Blindspotting</title>
+    <title lang="ar">بلايندسبوتينغ</title>
+    <desc lang="en">Comedy Drama. While on probation, a man begins to re-evaluate his relationship with his volatile best friend as they grapple with identity and their changed realities in the rapidly-gentrifying neighborhood they grew up in. دراما وكوميديا. أثناء فترة المراقبة ، يبدأ الرجل في إعادة تقييم علاقته مع أفضل صديق له عندما كان كل منهما يتصارع مع هويته وواقعه المتغير في الحي سريع التطور الذي كبرا فيه.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/blindspotting-l.jpg" />
+  </programme>
+  <programme start="20200420194500 +0000" stop="20200420194000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Haunt</title>
+    <title lang="ar">هونت</title>
+    <desc lang="en">Horror. On Halloween, a group of friends encounter an "extreme" haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realization that some nightmares are real. رعب. في ليلة عيد الهالويين، يصادف مجموعة من الأصدقاء منزلاً مسكوناً للغاية مما يثير خوفهم الشديد. تتحول الليلة إلى هلاك بعد إدراكهم أن بعض الكوابيس قد تكون حقيقية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/osnmoviesfirst.jpg" />
+  </programme>
+  <programme start="20200420194000 +0000" stop="20200420213000 +0000" channel="OSN Movies First HD">
+    <title lang="en">The Predator</title>
+    <title lang="ar">ذا بريديتر</title>
+    <desc lang="en">Action and adventure. When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race. فيلم أكشن ومغامرات. عندما يتسبب فتى وبدون قصد في إعادة أشرس صياد مفترس في الكون إلى كوكب الأرض، فلن يستطيع حماية الجنس البشري من الفناء سوى طاقم من الجنود السابقين ومدرس علوم ساخط.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/the-predator-2018-l.jpg" />
+  </programme>
+  <programme start="20200420213000 +0000" stop="20200420231500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Running Wild</title>
+    <title lang="ar">راننغ وايلد</title>
+    <desc lang="en">Drama, Stella Davis is a widow who saves her ranch by working with convicts to rehabilitate a herd of wild horses that wandered on to her property. Stella finally understands that there is no better remedy to misfortune than helping another living creature. دراما, ستيلا ديفيس أرملة تنقذ مزرعتها من خلال العمل مع المدانين لإعادة تأهيل قطيع من الخيول البرية التي تجولت في ممتلكاتها. ستيلا تدرك أخيرًا أن مساعدة كائن حي آخر هو أفضل علاج لسوء الحظ.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/running-wild-l.jpg" />
+  </programme>
+  <programme start="20200420231500 +0000" stop="20200421010000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Heavens To Betsy</title>
+    <title lang="ar">هيفينز تو بيتسي</title>
+    <desc lang="en">Comedy. An aspiring children's book author (Karen Lesiewicz) comes to a better understanding of God's will after each and every one of her prayers from past to present are suddenly answered all at once, erasing her past and altering everything in her present. كوميديا. توصلت مؤلفة كتاب الأطفال الطامحين (كارين ليسيفيتش) إلى فهم أفضل لإرادة الله بعد أن استجيب لكل دعواتها من الماضي إلى الحاضر بشكل مفاجئ، ومحو ماضيها وتغيير كل شيء في حاضرها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/heavens-to-betsy-l.jpg" />
+  </programme>
+  <programme start="20200420011500 +0000" stop="20200420030000 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">Heavens To Betsy</title>
+    <title lang="ar">هيفينز تو بيتسي</title>
+    <desc lang="en">Comedy. An aspiring children's book author (Karen Lesiewicz) comes to a better understanding of God's will after each and every one of her prayers from past to present are suddenly answered all at once, erasing her past and altering everything in her present. كوميديا. توصلت مؤلفة كتاب الأطفال الطامحين (كارين ليسيفيتش) إلى فهم أفضل لإرادة الله بعد أن استجيب لكل دعواتها من الماضي إلى الحاضر بشكل مفاجئ، ومحو ماضيها وتغيير كل شيء في حاضرها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/heavens-to-betsy-l.jpg" />
+  </programme>
+  <programme start="20200420030000 +0000" stop="20200420044000 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">Off The Menu</title>
+    <title lang="ar">أوف ذا منيو</title>
+    <desc lang="en">An unlikely heir to a Mexican fast-food franchise goes 'cuisine' hunting for the next culinary big thing, and finds himself in a small, dusty New Mexican town where foodies come from all over the world to salivate over the culinary treats of a local, authentic, and feis. يذهب وريث سلسلة المطاعم المكسيكية للوجبات السريعة في رحلة للبحث عن مشروع طبخ جديد ليجد نفسه في بلدة مكسيكية صغيرة يأتي إليها محبي الطعام من جميع أنجاء العالم لتذوق أطباق مطعم محلى أصلي تمتلكه فتاة مشاغبة.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/off-the-menu-l.jpg" />
+  </programme>
+  <programme start="20200420044000 +0000" stop="20200420063000 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">Bigger</title>
+    <title lang="ar">بيغر</title>
+    <desc lang="en">Drama starring Tyler Hoechlin and Julianne Hough. The inspirational tale of the grandfathers of fitness as we now know it, Joe and Ben Weider. Facing anti-Semitism and extreme poverty, the brothers beat all odds to build an empire and inspire future generations. فيلم درامي من بطولة تايلور هيوتشلن وجوليان هيو. القصة الملهمة للشقيقان جوي وبين وايدر اللذان أدت جهودهما إلى صياغة مفهوم اللياقة البدنية كما نعرفه حالياً. ورغم ما تعرضا له في حياتهما من معاداة للسامية وفقر مدقع، نجح الشقيقان في تحدي الصعاب وإنشاء امبراطورية مالية بالإضا.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/om1plus2.jpg" />
+  </programme>
+  <programme start="20200420063000 +0000" stop="20200420081500 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">The Man Who Invented  Christmas</title>
+    <title lang="ar">مان هو انفينتد كريسماس</title>
+    <desc lang="en">Comedy and drama starring Dan Stevens and Morfydd Clark. The journey that led to Charles Dickens' creation of "A Christmas Carol," a timeless tale that would redefine Christmas. دراما كوميدية من بطولة دان ستيفنز ومورفيد كلارك. قصة الرحلة التي ألهمت تشارلز ديكنز لتأليف "أيه كريسماس كارول"، تلك الرواية الخالدة التي أضفت مفهوماً جديداً للكريسماس.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/om1plus2.jpg" />
+  </programme>
+  <programme start="20200420081500 +0000" stop="20200420095500 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">Teen Star Academy</title>
+    <title lang="ar">تين ستار أكاديمي</title>
+    <desc lang="en">Family comedy. Becoming a "Star" is often the dream of many kids and young guys, or the fulfillment of the parent's missed dreams and so here we are, in a very special School called "Teen Star Academy. كوميدي وعائلي. النجومية أو تحقيق ما لم يستطيع الآباء تحقيقه هو حلم كثير من الأطفال والشباب، وها نحن الآن في هذه المدرسة المميزة " تين ستار أكاديمي " التي يتحول فيها الحلم إلى حقيقة.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/teen-star-academy-l.jpg" />
+  </programme>
+  <programme start="20200420095500 +0000" stop="20200420112500 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">In The Key Of Love</title>
+    <title lang="ar">إن ذا كي أوف لاف</title>
+    <desc lang="en">Romance. Photographer Maggie learns her ex-boyfriend/ex-singing partner is in the wedding she is working. Tensions run high until they sing together, remembering how good they were as a duo. رومانسية. تتصاعد التوترات عندما تعلم ماغي المصورة أن صديقها السابق والذي كان أيضاً شريكها السابق في الغناء موجوداً في الفرح الذي تعمل به إلى أن يغنيان معاً ويتذكران الماضي.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/in-the-key-ol-l.jpg" />
+  </programme>
+  <programme start="20200420112500 +0000" stop="20200420130000 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">The Griddle House</title>
+    <title lang="ar">ذا غريدل هاوس</title>
+    <desc lang="en">Drama, The story follows teenager Jack Benson, who is on the hunt for his birth mother. He finds she has been a regular all along at the nearby Griddle House. دراما. يسعى الشاب جاك بنسون للبحث عن أمه الحقيقية. ولقد اكتشف إنها كانت دائمة التواجد بـ" غريدل هاوس".(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/The-Griddle-House-l.jpg" />
+  </programme>
+  <programme start="20200420130000 +0000" stop="20200420144000 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">The Divorce Party</title>
+    <title lang="ar">ذا ديفورس بارتي</title>
+    <desc lang="en">Comedy Romance, A recently dumped divorcee in his late-twenties sets out to plan a wedding-sized divorced party in an attempt to get his life back on track. كوميدي ورومانسي. يخطط المطلق حديثاً في أواخر العشرينات من عمره لإقامة حفل طلاق في محاولة لإستعادة حياته.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/the-devorce-party-l.jpg" />
+  </programme>
+  <programme start="20200420144000 +0000" stop="20200420161000 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">Auggie</title>
+    <title lang="ar">أوغي</title>
+    <desc lang="en">Sci-Fi Drama. Forced into early retirement, Felix Greystone falls in love with an augmented reality companion, to the detriment of his relationship with his wife and daughter. دراما وخيال علمي. يقع فيليكس غرايستون بعد أن أُجبر على التقاعد المبكر في حب رفيق الواقع المدمج مما يؤثر على علاقته بزوجته وابنته.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/auggie-l.jpg" />
+  </programme>
+  <programme start="20200420161000 +0000" stop="20200420182500 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">The Wizard Of Lies</title>
+    <title lang="ar">ذا ويزرد أوف لايز</title>
+    <desc lang="en">Biographical drama examining Bernie Madoff's (Robert De Niro) Ponzi scheme, his deception, lies and cover-up, all as the financier's wife (Michelle Pfeiffer) and sons are catapulted into a harsh and unrelenting spotlight. دراما  سيرة ذاتية تسلط الضوء على بيرني مادوف بونزي (روبرت دي نيرو)، صاحب الخداع والكذب والتستر، وعلى زوجة هذا الممول (ميشيل فايفر) وأبنائه أيضاً.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/wizard-of-lies2017-l.jpg" />
+  </programme>
+  <programme start="20200420182500 +0000" stop="20200420200000 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">Blue Night</title>
+    <title lang="ar">Blue Night</title>
+    <desc lang="en">Can't keep up with your movies on OSN Movies First? Catch them two hours later on this channel. إذا فاتتك فرصة متابعة أي من أفلامك على قناة OSN Movies First، يمكنك مشاهدتها بعد ساعتين على هذه القناة.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/om1plus2.jpg" />
+  </programme>
+  <programme start="20200420200000 +0000" stop="20200420200000 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">Blindspotting</title>
+    <title lang="ar">بلايندسبوتينغ</title>
+    <desc lang="en">Comedy Drama. While on probation, a man begins to re-evaluate his relationship with his volatile best friend as they grapple with identity and their changed realities in the rapidly-gentrifying neighborhood they grew up in. دراما وكوميديا. أثناء فترة المراقبة ، يبدأ الرجل في إعادة تقييم علاقته مع أفضل صديق له عندما كان كل منهما يتصارع مع هويته وواقعه المتغير في الحي سريع التطور الذي كبرا فيه.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/blindspotting-l.jpg" />
+  </programme>
+  <programme start="20200420200000 +0000" stop="20200420214000 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">Adrift</title>
+    <title lang="ar">أدريفت</title>
+    <desc lang="en">Action drama. A true story of survival, as young couple, Tami (Shailene Woodley) and Richard (Sam Claflin) set sail across the Pacific Ocean on an adventure of a lifetime as they face one of the most catastrophic hurricanes in recorded history. أكشن ودراما من بطولة شايلين وودلي وسام كلافلن. يستند الفيلم على قصة حقيقية عن البقاء، يبحر الزوجان الشابان تامي وريتشارد عبر المحيط الهادي في مغامرة العمر وهما يواجهان معاً واحدة من أكثر الأعاصير الكارثية في التاريخ.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/adriftnewl.jpg" />
+  </programme>
+  <programme start="20200420214000 +0000" stop="20200420233000 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">The Predator</title>
+    <title lang="ar">ذا بريديتر</title>
+    <desc lang="en">Action and adventure. When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race. فيلم أكشن ومغامرات. عندما يتسبب فتى وبدون قصد في إعادة أشرس صياد مفترس في الكون إلى كوكب الأرض، فلن يستطيع حماية الجنس البشري من الفناء سوى طاقم من الجنود السابقين ومدرس علوم ساخط.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/the-predator-2018-l.jpg" />
+  </programme>
+  <programme start="20200420233000 +0000" stop="20200421011500 +0000" channel="OSN Movies First HD +2h">
+    <title lang="en">Running Wild</title>
+    <title lang="ar">راننغ وايلد</title>
+    <desc lang="en">Drama, Stella Davis is a widow who saves her ranch by working with convicts to rehabilitate a herd of wild horses that wandered on to her property. Stella finally understands that there is no better remedy to misfortune than helping another living creature. دراما, ستيلا ديفيس أرملة تنقذ مزرعتها من خلال العمل مع المدانين لإعادة تأهيل قطيع من الخيول البرية التي تجولت في ممتلكاتها. ستيلا تدرك أخيرًا أن مساعدة كائن حي آخر هو أفضل علاج لسوء الحظ.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/running-wild-l.jpg" />
+  </programme>
+  <programme start="20200420012500 +0000" stop="20200420025500 +0000" channel="OSN Movies HD">
+    <title lang="en">Road Less Traveled</title>
+    <title lang="ar">رود لس ترافلد</title>
+    <desc lang="en">Romance. Charlotte struggles to balance her upcoming wedding with her career. She searches for answers in her hometown, where she runs into her high school sweetheart, which prompts Charlotte to wonder what life would have been like if she'd never left. رومانسي. تصارع شارلوت من أجل تحقيق الموازنة بين زفافها القادم وحياتها المهنية. فعندما تذهب إلى مسقط رأسها وتتقابل مع حبيبها القديم بالمدرسة الثانوية تتساءل كيف ستكون حياتها إذا لم ترحل أبداً.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/road-less-traveled-l.jpg" />
+  </programme>
+  <programme start="20200420025500 +0000" stop="20200420044000 +0000" channel="OSN Movies HD">
+    <title lang="en">Game Day</title>
+    <title lang="ar">غيم داي</title>
+    <desc lang="en">Drama. A basketball-savvy teen reluctantly agrees to coach a brilliant but self-centered tech whiz who has lost everything when her startup goes bust and personal life is left in ruins. دراما. تطلب الفتاة العبقرية التي تعمل بمجال التكنولوجيا بإحدى الشركات من شاب بارع في رياضة كرة السلة أن يقوم بتدريبها من أجل إنقاذ وظيفتها بعد أن  فشلت في تأسيس مشروعها الخاص وتدمرت حياتها الشخصية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/game-day-l.jpg" />
+  </programme>
+  <programme start="20200420044000 +0000" stop="20200420064000 +0000" channel="OSN Movies HD">
+    <title lang="en">Nutty Professor II: The Klumps</title>
+    <title lang="ar">ناتي بروفيسور 2: ذا كلامبز</title>
+    <desc lang="en">Movies. The hilarity begins when professor Sherman Klump finds romance with fellow DNA specialist, Denise Gaines, and discovers a brilliant formula that reverses aging. تبدأ البهجة عندما يقع البروفيسور شيرمان كلامب في حب زميلته المتخصصة في الحمض النووي "دينيس جاينز" ، ويكتشف تركيبة رائعة تعكس الشيخوخة.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/nutty-professor-2-l.jpg" />
+  </programme>
+  <programme start="20200420064000 +0000" stop="20200420084000 +0000" channel="OSN Movies HD">
+    <title lang="en">The Bad News Bears</title>
+    <title lang="ar">ذا باد نيوز بيرز</title>
+    <desc lang="en">A grizzled little league coach tries to turn his team of misfits into champs. Comedy with Billy Bob Thornton and Greg Kinnear. مدرب رياضي، أشيب شعر الرأس، يحاول أن يصنع من فريقه المشتت بطلا. كوميديا، مع  بيلي بوب ثورنتن و غريغ كنير.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/badnewsbearfl.jpg" />
+  </programme>
+  <programme start="20200420084000 +0000" stop="20200420102500 +0000" channel="OSN Movies HD">
+    <title lang="en">Final Recipe</title>
+    <title lang="ar">فاينل ريسيبي</title>
+    <desc lang="en">Drama starring Markus Waldow and Michelle Yeoh. Mark (Henry Lau), a young man, must impress the host of a cooking show (Michelle Yeoh) and her chef husband to save his grandfather's restaurant. دراما من بطولة ماركوس فالدو وميشيل يوه. يجب على الشاب مارك (هنري لاو) إقناع مقدمة برنامج الطهي (ميشيل يوه) وزوجها الشيف لإنقاذ مطعم جده.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/osnmovies.jpg" />
+  </programme>
+  <programme start="20200420102500 +0000" stop="20200420115500 +0000" channel="OSN Movies HD">
+    <title lang="en">Coneheads</title>
+    <title lang="ar">كون هيدز</title>
+    <desc lang="en">Comedy with Dan Aykroyd. An alien couple with cone-shaped heads from the planet "Remulak" are mistakenly ditched on earth and are forced to adapt to the American way of life. كوميدي من بطولة دان آكرويد. يهبط ثنائي من الكائنات الفضائية رأسيهما مخروطيا الشكل من كوكب (ريمولاك) على كوكب الأرض بالخطأ، ويجبران على التأقلم مع أسلوب الحياة الأمريكية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/coneheads-L.jpg" />
+  </programme>
+  <programme start="20200420115500 +0000" stop="20200420134000 +0000" channel="OSN Movies HD">
+    <title lang="en">Mousehunt</title>
+    <title lang="ar">ماوسهانت</title>
+    <desc lang="en">Two hapless brothers inherit a mansion which would be worth millions, if only they could evict the tiny mouse that is making their lives miserable. Family comedy with Nathan Lane and Lee Evans. شقيقان سيئا الحظ يرثا بيتاً تساوي قيمته الملايين لو انهما استطاعا طرد مالكته الحالية الفأرة الصغيرة التي تحول حياتهما الى جحيم. كوميديا للعائلة من بطولة ناثان لين و لي ايفانز.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/mousehuntnewl.jpg" />
+  </programme>
+  <programme start="20200420134000 +0000" stop="20200420153000 +0000" channel="OSN Movies HD">
+    <title lang="en">Lakeview Terrace</title>
+    <title lang="ar">لايكفيو تراس</title>
+    <desc lang="en">In this tightly wound thriller, starring Samuel L. Jackson, an interracial couple moves into their California dream home only to find themselves the target of their volatile next-door neighbour, a racist LAPD officer. ضابط في شرطة لوس أنجلوس لن يهدأ له بال حتى يقوم بطرد زوجين من أعراق مختلفة انتقلا حديثاً للمنزل المجاور له. دراما بطولة سامويل إل. جاكسون وكيري واشنطن.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/lakeview_terrace-L.jpg" />
+  </programme>
+  <programme start="20200420153000 +0000" stop="20200420170000 +0000" channel="OSN Movies HD">
+    <title lang="en">A Boy Called Sailboat</title>
+    <title lang="ar">أيه بوي كولد سيلبوت</title>
+    <desc lang="en">Comedy drama. A Hispanic family find hope in their extraordinary son named Sailboat when a personal gesture awakens a global desire. Armed with a "little guitar. فيلم دراما كوميدي. تجد عائلة اسبانية أملاً في ابنهم المتميز والذي يدعى سيلبوت عندما عندما توقظ لفتة شخصية مسعى دولي. مسلحاً بـ "غيتار صغير"، يقود سيلبوت فريقاً مذهلاً عبر قصة اعجازية لأعظم سر خفي.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/aboycalledsailboatl_20190123035702.jpg" />
+  </programme>
+  <programme start="20200420170000 +0000" stop="20200420201000 +0000" channel="OSN Movies HD">
+    <title lang="en">The Green Mile</title>
+    <title lang="ar">ذا غرين مايل</title>
+    <desc lang="en">Drama. A supernatural tale set on death row, where a gentle giant (Michael Clarke Duncan) possesses the mysterious power to heal people's ailments and the cellblock's head guard (Tom Hanks) tries desperately to help stave off the condemned man's execution. حكاية مشوقة تدور أحداثها داخل أشهر سجن لتنفيذ حكم الإعدام، وتروي قصة رجل ضخم رقيق (مايكل كلارك دانكان) يمتلك قدرات غامضة على شفاء أمراض الناس، وقائد حرس الزنزانة (توم هانكس) الذي يحاول يائسا مساعدته في درء تنفيذ حكم الإعدام بحقه.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/green-mile-L.jpg" />
+  </programme>
+  <programme start="20200420201000 +0000" stop="20200420205500 +0000" channel="OSN Movies HD">
+    <title lang="en">Let's Be Cops</title>
+    <title lang="ar">ليتس بي كوبس</title>
+    <desc lang="en">Action comedy starring Damon Wayans Jr., Jake Johnson, Rob Riggle. Pals dressed as police officers for a costume party are thrown into the real and dangerous world of cops and robbers when mistaken for actual law enforcement. أكشن وكوميدي من بطولة ديمون واينز جونيور، جيك جونسون وروب ريغل. يدخل أصدقاء يرتدون زي ضباط شرطة من أجل حفلة تنكرية، إلى عالم الشرطة واللصوص الحقيقي والخطير عندما يُعتقد بالخطأ أنهم من منفذي القانون.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/lets-be-cops-L.jpg" />
+  </programme>
+  <programme start="20200420205500 +0000" stop="20200420222000 +0000" channel="OSN Movies HD">
+    <title lang="en">For A Good Time, Call</title>
+    <title lang="ar">فور أيه غود تايم، كول</title>
+    <desc lang="en">Comedy. Two former college rivals team up to start a lucrative business while sharing a New York apartment. With Lauren in charge of the business and Katie catering to the clients, the mismatched pair launch a phone-sex line that quickly proves a smashing success. كوميدي. بعدما كانتا عدوتين لدودتين أثناء الجامعة، تنتقل لاورين وكيتي للعيش معا داخل شقة في نيويورك، ومن أجل جني المال الكافي لتأمين احتياجاتهما، تقوم الاثنتان بإطلاق خط للجنس عبر الهاتف والذي يحقق نجاحا مذهلا فيما بعد.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/for-a-good-time-call.ls.jpg" />
+  </programme>
+  <programme start="20200420222000 +0000" stop="20200420235000 +0000" channel="OSN Movies HD">
+    <title lang="en">Dirty Work</title>
+    <title lang="ar">ديرتي ورك</title>
+    <desc lang="en">Mitch and his buddy Sam open a revenge-for-hire business in order to raise $50,000 so Sam's father can get a heart transplant. Jack Warden and Chevy Chase co-star in this comedy. يجب على ميتش وسام أن يدبرا مبلغ 50.000 دولار سريعاً. فيتوصل ميتش لوسيلة للحصول على المال عن طريق استغلال موهبتهما الوحيدة وهي افتتاح مشروع "انتقام للإيجار". كوميدي.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/osnmovies.jpg" />
+  </programme>
+  <programme start="20200420235000 +0000" stop="20200421012500 +0000" channel="OSN Movies HD">
+    <title lang="en">Sweet Home Carolina</title>
+    <title lang="ar">سويت هوم كارولينا</title>
+    <desc lang="en">Drama. An overworked single mother from Los Angeles inherits a house in rural South Carolina. She and her daughters are forced to slow down and mend their deteriorating relationships. ترث الأم العازبة المنهكة من العمل منزلاً بريف ولاية كارولينا الجنوبية، الشىء الذي يساعد على إصلاح علاقتها المتدهورة مع إبنتيها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/sweet-home-carolina-l.jpg" />
+  </programme>
+  <programme start="20200420003000 +0000" stop="20200420031500 +0000" channel="ART Aflam 1">
+    <title lang="en">Hallaq Housh</title>
+    <title lang="ar">حلاق حوش</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  </programme>
+  <programme start="20200420031500 +0000" stop="20200420044500 +0000" channel="ART Aflam 1">
+    <title lang="en">Qasaqees Aloshaaq</title>
+    <title lang="ar">قصاقيص العشاق</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200202110508.jpg" />
+  </programme>
+  <programme start="20200420044500 +0000" stop="20200420063000 +0000" channel="ART Aflam 1">
+    <title lang="en">Odet Alferan</title>
+    <title lang="ar">اوضة الفيران</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200202100400.jpg" />
+  </programme>
+  <programme start="20200420063000 +0000" stop="20200420090000 +0000" channel="ART Aflam 1">
+    <title lang="en">Hallo America</title>
+    <title lang="ar">هالو أميركا</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200202095754.jpg" />
+  </programme>
+  <programme start="20200420090000 +0000" stop="20200420103000 +0000" channel="ART Aflam 1">
+    <title lang="en">31-Dec</title>
+    <title lang="ar">ديسمبر واحد وثلاثين</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200203085513.jpg" />
+  </programme>
+  <programme start="20200420103000 +0000" stop="20200420130000 +0000" channel="ART Aflam 1">
+    <title lang="en">Abu Ali</title>
+    <title lang="ar">أبو علي</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200123043501.jpg" />
+  </programme>
+  <programme start="20200420130000 +0000" stop="20200420153000 +0000" channel="ART Aflam 1">
+    <title lang="en">Ismailia Rayeh Gay</title>
+    <title lang="ar">اسماعيلية رايح</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200123043333.jpg" />
+  </programme>
+  <programme start="20200420153000 +0000" stop="20200420180000 +0000" channel="ART Aflam 1">
+    <title lang="en">El Nazer</title>
+    <title lang="ar">الناظر</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200123043440.jpg" />
+  </programme>
+  <programme start="20200420180000 +0000" stop="20200420200000 +0000" channel="ART Aflam 1">
+    <title lang="en">Al Sefara Fe Al Omarah</title>
+    <title lang="ar">السفارة في العمارة</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200123051455.jpg" />
+  </programme>
+  <programme start="20200420200000 +0000" stop="20200420203000 +0000" channel="ART Aflam 1">
+    <title lang="en">Feen Qalbi</title>
+    <title lang="ar">أفلام 1</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200203090300.jpg" />
+  </programme>
+  <programme start="20200420203000 +0000" stop="20200420223000 +0000" channel="ART Aflam 1">
+    <title lang="en">Mamno' Aliqtrab Aw Altasweer</title>
+    <title lang="ar">ممنوع الاقتراب او التصوير</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200130053850.jpg" />
+  </programme>
+  <programme start="20200420223000 +0000" stop="20200421003000 +0000" channel="ART Aflam 1">
+    <title lang="en">Eleyal Herbet</title>
+    <title lang="ar">العيال هربت</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  </programme>
+  <programme start="20200420003000 +0000" stop="20200420031500 +0000" channel="ART Aflam 2">
+    <title lang="en">Laylet Al Qabd Ala Bakeza W Zaghloul</title>
+    <title lang="ar">ليلة القبض على بكيزة و زغلول</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200203085143.jpg" />
+  </programme>
+  <programme start="20200420031500 +0000" stop="20200420053000 +0000" channel="ART Aflam 2">
+    <title lang="en">Alhobb Alkhaled</title>
+    <title lang="ar">أفلام 2</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20200420053000 +0000" stop="20200420073000 +0000" channel="ART Aflam 2">
+    <title lang="en">Ghadan Yaoud Al Hob</title>
+    <title lang="ar">غدا يعود الحب</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20200420073000 +0000" stop="20200420093000 +0000" channel="ART Aflam 2">
+    <title lang="en">Al Battal</title>
+    <title lang="ar">البطل</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20200420093000 +0000" stop="20200420113000 +0000" channel="ART Aflam 2">
+    <title lang="en">Ashara Ala Asharah</title>
+    <title lang="ar">إشارة على إشارة</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200123044054.jpg" />
+  </programme>
+  <programme start="20200420113000 +0000" stop="20200420133000 +0000" channel="ART Aflam 2">
+    <title lang="en">Al Zawga Al Sabe'a</title>
+    <title lang="ar">الزوجة السابعة</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20200420133000 +0000" stop="20200420160000 +0000" channel="ART Aflam 2">
+    <title lang="en">Wahda Bi Wahda</title>
+    <title lang="ar">واحده بواحده</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200203083645.jpg" />
+  </programme>
+  <programme start="20200420160000 +0000" stop="20200420180000 +0000" channel="ART Aflam 2">
+    <title lang="en">Al Qalb Louh Ahkam</title>
+    <title lang="ar">أفلام 2</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200203124708.jpg" />
+  </programme>
+  <programme start="20200420180000 +0000" stop="20200420200000 +0000" channel="ART Aflam 2">
+    <title lang="en">Sawt Al Hob</title>
+    <title lang="ar">صوت الحب</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200203011123.jpg" />
+  </programme>
+  <programme start="20200420200000 +0000" stop="20200420200000 +0000" channel="ART Aflam 2">
+    <title lang="en">Ghazal Elbanat</title>
+    <title lang="ar">غزل البنات</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20200420200000 +0000" stop="20200420223000 +0000" channel="ART Aflam 2">
+    <title lang="en">Aqwa Men Alhobb</title>
+    <title lang="ar">أقوى من الحب</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200123051643.jpg" />
+  </programme>
+  <programme start="20200420223000 +0000" stop="20200421003000 +0000" channel="ART Aflam 2">
+    <title lang="en">Esabet Hamad We Toutou</title>
+    <title lang="ar">عصابة حمد وتوتو</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200203083936.jpg" />
+  </programme>
+  <programme start="20200420000000 +0000" stop="20200420030000 +0000" channel="ART Cinema">
+    <title lang="en">LA Ahad Honak (The Giraffe)</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/acm745x419_20200129093013.jpg" />
+  </programme>
+  <programme start="20200420030000 +0000" stop="20200420080000 +0000" channel="ART Cinema">
+    <title lang="en">Poster</title>
+    <title lang="ar">بوستر</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/acm745x419_20200123084718.jpg" />
+  </programme>
+  <programme start="20200420080000 +0000" stop="20200420100000 +0000" channel="ART Cinema">
+    <title lang="en">LA Ahad Honak (The Giraffe)</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/acm745x419_20200129093013.jpg" />
+  </programme>
+  <programme start="20200420100000 +0000" stop="20200420120000 +0000" channel="ART Cinema">
+    <title lang="en">Tunis Allayl (Tunis By Night)</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20200420120000 +0000" stop="20200420140000 +0000" channel="ART Cinema">
+    <title lang="en">Benzine</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20200420140000 +0000" stop="20200420160000 +0000" channel="ART Cinema">
+    <title lang="en">LA Ahad Honak (The Giraffe)</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/acm745x419_20200129093013.jpg" />
+  </programme>
+  <programme start="20200420160000 +0000" stop="20200420180000 +0000" channel="ART Cinema">
+    <title lang="en">Tunis Allayl (Tunis By Night)</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20200420180000 +0000" stop="20200420200000 +0000" channel="ART Cinema">
+    <title lang="en">Benzine</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20200420200000 +0000" stop="20200420200000 +0000" channel="ART Cinema">
+    <title lang="en">LA Ahad Honak (The Giraffe)</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/acm745x419_20200129093013.jpg" />
+  </programme>
+  <programme start="20200420200000 +0000" stop="20200420220000 +0000" channel="ART Cinema">
+    <title lang="en">Tunis Allayl (Tunis By Night)</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20200420220000 +0000" stop="20200421000000 +0000" channel="ART Cinema">
+    <title lang="en">Benzine</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20200420010000 +0000" stop="20200420030000 +0000" channel="Cinema 1">
+    <title lang="en">Al-Millionaira Al-Nasshala</title>
+    <title lang="ar">المليونيرة النشالة</title>
+    <desc lang="en">Noura Strikingly resembling Mervat who`s gone missing, Fifi the pickpocket assumes her identity and plunges into the family`s wealth Fate reveals its trick when Fifi turns out to be the real Mervat (R3). نورا، مصطفى فهمي تنتحل النشالة فيفي شخصية ميرفت الفتاة الثرية المفقودة وتتقن الدور للشبه الكبير بينهما يظهر والدها ويفتضح أمرها، وعند التحقيق معه يعترف أنها ابنته بالتبني فيتضح أن فيفي هي ميرفت (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM1.jpg" />
+  </programme>
+  <programme start="20200420030000 +0000" stop="20200420050000 +0000" channel="Cinema 1">
+    <title lang="en">Al Mukhaadi'oun</title>
+    <title lang="ar">المخادعون</title>
+    <desc lang="en">Hassan Yussef; Souheir Ramzi After her death in a car accident, the police starts the search for the gang who was blackmailing Souheir with her naked pictures to be shown to her husband (R3). حسن يوسف؛ سهير رمزي تموت سهير في حادث تصادم، تعثر الشرطة في حقيبتها على رسالة من مجهول يهددها بدفع مبلغ من المال لإسترداد صورها الخليعة والا اخبر زوجها يبدأ البوليس بالتحري للكشف عن العصابة (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM1.jpg" />
+  </programme>
+  <programme start="20200420050000 +0000" stop="20200420070000 +0000" channel="Cinema 1">
+    <title lang="en">Siraa‘ Al‘usshaq</title>
+    <title lang="ar">صراع العشاق</title>
+    <desc lang="en">Suheir Ramzi; Husein Fahmi Salma moves in her uncle`s house when her dad killed her mother to discover that her uncle wasn`t really a good choice either (R3). سهير رمزي؛ حسين فهمي تلجأ سلمى الى عمها الثري سليم النجعاوي لتعيش معه بعد ان قام ابوها بقتل امها لخيانتها له ودخوله السجن يسيء سليم معاملة سلمى وتتوالى الأحداث (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM1.jpg" />
+  </programme>
+  <programme start="20200420070000 +0000" stop="20200420090000 +0000" channel="Cinema 1">
+    <title lang="en">Al Ahdan Al Dafi'ah</title>
+    <title lang="ar">الأحضان الدافئة</title>
+    <desc lang="en">Zubaida Tharwat, Samir Sabri A divorced hostess is in love with a man whose parents oppose their marriage; will he be able to convince them to change their mind and marry his beloved one? (R3). سمير صبري، زبيده ثروت مديحة امرأة مطلقة وتعمل مضيفة يربط الحب بينها وبين حسن ويرفض والديه زواجه منها بسبب وضعها الإجتماعي، فهل سيتمكن من تغيير رأيهما وينتصر الحب بالنهاية؟ (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM1.jpg" />
+  </programme>
+  <programme start="20200420090000 +0000" stop="20200420110000 +0000" channel="Cinema 1">
+    <title lang="en">Babel Habeebti</title>
+    <title lang="ar">بابل حبيبتي</title>
+    <desc lang="en">Yehya Al-Fakharani, Samah Anwar An archaeologist meets an Iraqi girl and falls in love with her Comical situations occur when he falsely thinks that she is a princess, according to her name (R3). يحيى الفخراني، سماح أنور مهرجان في بابل والمدعون من علماء الآثار وفنانين,أحد علماء الآثار يلتقي بفتاة عراقية تدعى أميرة، فيعتقد عالم الآثار أنها أميرة وتبدأ مجموعة من المواقف الكوميدية (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM1.jpg" />
+  </programme>
+  <programme start="20200420110000 +0000" stop="20200420130000 +0000" channel="Cinema 1">
+    <title lang="en">Al Naajoon Min Al Naar</title>
+    <title lang="ar">الناجون من النار</title>
+    <desc lang="en">O`mroo Abed Al Jalil Abdelsalam who joined an extremist organization was obliged to kidnap his brother Abdallah to force the government exchanging him with some of his superiors (R3). عمروعبدالجليل ينضم عبد السلام الى احد الجماعات المتطرفة المسلحة ويتزوج من زينب  توجه اليه التعليمات لإختطاف شقيقه الضابط عبدالله واستخدامه رهينة لإجبار السلطات على تبادل عدد من رموز الجماعة معه (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM1.jpg" />
+  </programme>
+  <programme start="20200420130000 +0000" stop="20200420150000 +0000" channel="Cinema 1">
+    <title lang="en">Al-Abwab Al-Mughlaqa</title>
+    <title lang="ar">الأبواب المغلقة</title>
+    <desc lang="en">Mahmoud Himaida, Sawsan Badr Mohammad is a highly impressionable young man who embraces fundamentalist ideas as a way of dealing with the confusion of adolescence and sexual awakening (R3). محمود حميدة، سوسن بدر يجد محمد الشاب المراهق في الحركات الأصولية ملاذاً له من المشاكل المتولدة نتيجة الكبت في حقبة حرب الخليج والتيارات السياسة التي كانت تتصارع فيه (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM1.jpg" />
+  </programme>
+  <programme start="20200420150000 +0000" stop="20200420170000 +0000" channel="Cinema 1">
+    <title lang="en">Ahlam Fuqara' Wa Laken Aghniya'</title>
+    <title lang="ar">أحلام فقراء ولكن أغنياء</title>
+    <desc lang="en">Jamil Rateb, Buthayna Rashouan This presents two sides of a dramatic scene; one side,an innocent romance story between a young couple and on the other, the devious Fares who uses women for their money (R3). جميل راتب، بثينة رشوان فارس الحلواني المقاول مهدد بالإفلاس يحاول الخروج من ضائقته المالية بالتقرب من ليلى الأرملة الثرية حتى ولو أدى الأمر إلى طلب يد ابنتها كزوجة لابنه (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM1.jpg" />
+  </programme>
+  <programme start="20200420170000 +0000" stop="20200420190000 +0000" channel="Cinema 1">
+    <title lang="en">Al-Ba'd Yath'hab Li Al-Ma'thoun Marratayn</title>
+    <title lang="ar">البعض يذهب للمأذون مرتين</title>
+    <desc lang="en">Nour Al-Sherif, Mervat Ameen Mamdouh and Masou`d engage in extra-marital affairs to add extra spice to their marriages that have gone astray The vexed wives rage, but this pattern acts as a catalyst (R3). نورالشريف، ميرفت أمين يعاني ممدوح من غيرة زوجته فيما لا يلقى أخوه مسعود أي اهتمام من زوجته المنشغلة عنه بمشاكل البيت والأولاد يتبعان أسلوب عزت في خوض علاقات خارج الزواج مما يؤدي إلى عواقب وخيمة (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM1.jpg" />
+  </programme>
+  <programme start="20200420190000 +0000" stop="20200420210000 +0000" channel="Cinema 1">
+    <title lang="en">I'daam Baree'</title>
+    <title lang="ar">اعدام برئ</title>
+    <desc lang="en">Imad Yussef; Nihal Anbar A big clash happens between two orphan brothers First is a decent police officer and the other is a lab doctor fighting against cancerous pesticides (R3). عماد بوسف؛ نهال عنبر شقيقان يتيمان احدهما لواء شرطة معروف بنزاهته والآخر طبيب تحاليل يحارب مافيا المبيدات المسرطنة ويحاول كشفها مع تطور الأحداث يحدث خلاف كبير بينهما في اطار درامي مشوق (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/idaambareel_20170723035405.jpg" />
+  </programme>
+  <programme start="20200420210000 +0000" stop="20200420230000 +0000" channel="Cinema 1">
+    <title lang="en">Al Ahdan Al Dafi'ah</title>
+    <title lang="ar">الأحضان الدافئة</title>
+    <desc lang="en">Zubaida Tharwat, Samir Sabri A divorced hostess is in love with a man whose parents oppose their marriage; will he be able to convince them to change their mind and marry his beloved one? (R3). سمير صبري، زبيده ثروت مديحة امرأة مطلقة وتعمل مضيفة يربط الحب بينها وبين حسن ويرفض والديه زواجه منها بسبب وضعها الإجتماعي، فهل سيتمكن من تغيير رأيهما وينتصر الحب بالنهاية؟ (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM1.jpg" />
+  </programme>
+  <programme start="20200420230000 +0000" stop="20200421010000 +0000" channel="Cinema 1">
+    <title lang="en">Babel Habeebti</title>
+    <title lang="ar">بابل حبيبتي</title>
+    <desc lang="en">Yehya Al-Fakharani, Samah Anwar An archaeologist meets an Iraqi girl and falls in love with her Comical situations occur when he falsely thinks that she is a princess, according to her name (R3). يحيى الفخراني، سماح أنور مهرجان في بابل والمدعون من علماء الآثار وفنانين,أحد علماء الآثار يلتقي بفتاة عراقية تدعى أميرة، فيعتقد عالم الآثار أنها أميرة وتبدأ مجموعة من المواقف الكوميدية (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM1.jpg" />
+  </programme>
+  <programme start="20200420000000 +0000" stop="20200420020000 +0000" channel="Cinema 2">
+    <title lang="en">Shate' Al-Gharam</title>
+    <title lang="ar">شاطىء الغرام</title>
+    <desc lang="en">Leila Mourad, Hussein Sidqi. A young woman ashamed of her background is willing to sacrifice her relationship with her lover. (R3). ليلى مراد، حسين صدقي.تعيش ليلى مع والدها الدكتور إبراهيم، الذي يوهمها أن والدتها  قد توفيت وهي طفلة، بينما في الحقيقة يخفي عليها أن أمها راقصة هجرت زوجها من أجل عشيقها فطلقها (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+  </programme>
+  <programme start="20200420020000 +0000" stop="20200420040000 +0000" channel="Cinema 2">
+    <title lang="en">Al-Sa'd Wa'd</title>
+    <title lang="ar">السعد وعد</title>
+    <desc lang="en">Ismail Yaseen, Najah Salam. A paradox at its best is hilariously manifested in Bahjat`s life when he`s announced to have won a monetary prize right after he fakes death to escape his massive debts. (R3). إسماعيل ياسين،نجاح سلام.لم يكن السعد وعد بهجت عندما لم يجد سبيلاً للتهرب من ديونه الكثيرة سوى بادعائه الموت، ليضطر لاحقاً إعادة إحياء نفسه عندما يعلن البنك عن فوزه بجائزة مالية كبرى سعى الورثة إليها (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+  </programme>
+  <programme start="20200420040000 +0000" stop="20200420060000 +0000" channel="Cinema 2">
+    <title lang="en">Dillouni Ya NAS</title>
+    <title lang="ar">دلّوني يا ناس</title>
+    <desc lang="en">Durriyya Ahmad, Shukri Sarhan. Nahed falls victim to her mother`s austerity and later to a swindler who uses her recently developed amnesia to practise hypnosis and turns her into a night club singer. (R3). درية أحمد، شكري سرحان.يستغل منوّم مغناطيسي الشابة ناهد حين تفقد ذاكرتها جراء حادث يحولها إلى مطربة ويكسب الكثير من خلالها ويخفيها بشتى الوسائل تصدمها سيارة فتستعيد ذاكرتها وتعود لأمها وحبيبها حسن (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+  </programme>
+  <programme start="20200420060000 +0000" stop="20200420080000 +0000" channel="Cinema 2">
+    <title lang="en">Lan A'oud</title>
+    <title lang="ar">لن أعود</title>
+    <desc lang="en">Tahiyya Karioka, Kamal Al-Shinnawi. Aliyya`s venomous jealousy flares up when her paramour Fathi dumps her to wed Nahed. Her evil scheme to finish the bride has a sudden twist and she commits suicide. (R3). تحية كاريوكا، كمال الشناوي.تشتعل نار الغيرة في قلب علية عندما يفصح فتحي عن رغبته بإنهاء علاقتهما الآثمة لأنه سيتزوج من ناهد تدبر لقتل ناهد لكن يكون الحادث من نصيب فتحي فتنتحر علية ويعود فتحي لناهد (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+  </programme>
+  <programme start="20200420080000 +0000" stop="20200420100000 +0000" channel="Cinema 2">
+    <title lang="en">Al-Natthara Al-Sawda'</title>
+    <title lang="ar">النظارة السوداء</title>
+    <desc lang="en">Ahmad Math`har, Nadia Lutfi. Madeeha is an aimless aristocrat but evolves profoundly after meeting Omar who instills a sense of purpose in her. She gets the chance to do the same for him later on. (R3). أحمد مظهر، ناديا لطفي.يحيط الطامعون بمديحة كونها ثرية والاستهتار طبعها يحدث تحول جذري في حياتها حين تلتقي عمر الذي يدفعها لإيجاد هدف تعيش من أجله يأتي الوقت وتفعل هي الشيء ذاته وتعيد إليه التوازن (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+  </programme>
+  <programme start="20200420100000 +0000" stop="20200420120000 +0000" channel="Cinema 2">
+    <title lang="en">Hikayet Gawaz</title>
+    <title lang="ar">حكاية جواز</title>
+    <desc lang="en">Sua`d Hussni, Shukri Sarhan. Adeela`s mother defies all maneuvers to conclude her daughter`s marriage to Mohammad after his transfer to a remote region. Tension escalates before Adeela finds an exit. (R3). سعاد حسني، شكري سرحان.تقف عزيزة بالمرصاد لمحمد حين يتم نقله إلى منطقة نائية ليلة زفافه على ابنتها عديلة ترفض أي مساومة لإتمام الزواج وتمنع الاتصال بينهما، لكن عديلة تأتي بالحل حين تدّعي الانتحار (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+  </programme>
+  <programme start="20200420120000 +0000" stop="20200420140000 +0000" channel="Cinema 2">
+    <title lang="en">Man Radiya Bi Qaleeloh</title>
+    <title lang="ar">من رضي بقليله</title>
+    <desc lang="en">Nazha Yunes;Sharifa Maher. Two ladies were disguised in a man to trick their husbands who were deciding to get married with nightclub girls. (R3). نزهة يونس؛شريفة ماهر.يتعرف شابان على فتاتين في احد الملاهي الليلية ويقرران الزواج منهماتعرف الزوجتين بالأمر فتتنكر كل منهما في زي رجل حتى تبحث عنهما في الملاهي ينجحان في اعادتهما الى المنزل الزوجية (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+  </programme>
+  <programme start="20200420140000 +0000" stop="20200420160000 +0000" channel="Cinema 2">
+    <title lang="en">Al-Qalb Luh Ahkaam</title>
+    <title lang="ar">القلب له أحكام</title>
+    <desc lang="en">Faten Hamama, Ahmad Ramzi. Hamdi portrays Nadia as an aristocrat to his rich father to get his blessing for their marriage. A setback arises when her meagreness is exposed yet her substance prevails. (R3). فاتن حمامة، أحمد رمزي.ينوي حمدي الزواج من الشابة الفقيرة ناديا، فيصوّرها لوالده الثري كسليلة عائلة أرستقراطية تقع الكارثة عندما يعلم الأب بأصلها المتواضع، لكن معدنها الأصيل وشهامة أهلها يغيران رأيه (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+  </programme>
+  <programme start="20200420160000 +0000" stop="20200420180000 +0000" channel="Cinema 2">
+    <title lang="en">Al-Anisa Hanafi</title>
+    <title lang="ar">الآنسة حنفي</title>
+    <desc lang="en">Ismail Yaseen, Majida. Katkout forces his son Hanafi to marry his step-daughter Nawa`em. On their wedding night, Hanafi gets sick, goes to hospital for surgery and comes out as a female called Fifi. (R3). إسماعيل ياسين، ماجدة.يزوّج المعلم كتكوت ابنه الوحيد حنفي لابنة زوجته رغم أنها تحب حسن تشاء الظروف أن يصاب حنفي بمغص ليلة زفافه، فينقل إلى المستشفى حيث تجرى له عملية جراحية ينقلب بعدها إلى امرأة (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+  </programme>
+  <programme start="20200420180000 +0000" stop="20200420200000 +0000" channel="Cinema 2">
+    <title lang="en">Nidaa' Al-Usshaq</title>
+    <title lang="ar">نداء العشاق</title>
+    <desc lang="en">Berlanti Abdel Hameed, Shukri Sarhan. Ward escapes from her lover`s excessive jealousy yet falls into the abyss of a thorny and bitter triangular love story which ends in no one`s favour. (R3). برلنتي عبد الحميد، شكري سرحان.تطرد الغازية ورد من القرية بسبب جريمة ارتكبها عشيقها تعمل في محلج للقطن، حيث تثير إعجاب متولي لكنها تقع في حب أخيه عبده تؤدي هذه العلاقة الثلاثية الشائكة إلى كارثة (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+  </programme>
+  <programme start="20200420200000 +0000" stop="20200420200000 +0000" channel="Cinema 2">
+    <title lang="en">Mughamarat Shabab</title>
+    <title lang="ar">مغامرة شباب</title>
+    <desc lang="en">Nelly, Rushdi Abatha. A young woman takes part in a competition in a magazine hoping to win the prize, but when she doesn`t win, she and a group of friends turn against the chief editor Ahmad. (R3). نيللي، رشدي أباظة.يترأس أحمد تحرير مجلة بوليسية تنظم مسابقة لقرائها تتوقع فتاة جامعية أن تفوز بالجائزة ولكنها تفاجأ بأنها لم توفق فتصمم مع مجموعة من أصدقائها على الانتقام من أحمد (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+  </programme>
+  <programme start="20200420200000 +0000" stop="20200420220000 +0000" channel="Cinema 2">
+    <title lang="en">Al-Natthara Al-Sawda'</title>
+    <title lang="ar">النظارة السوداء</title>
+    <desc lang="en">Ahmad Math`har, Nadia Lutfi. Madeeha is an aimless aristocrat but evolves profoundly after meeting Omar who instills a sense of purpose in her. She gets the chance to do the same for him later on. (R3). أحمد مظهر، ناديا لطفي.يحيط الطامعون بمديحة كونها ثرية والاستهتار طبعها يحدث تحول جذري في حياتها حين تلتقي عمر الذي يدفعها لإيجاد هدف تعيش من أجله يأتي الوقت وتفعل هي الشيء ذاته وتعيد إليه التوازن (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+  </programme>
+  <programme start="20200420220000 +0000" stop="20200421000000 +0000" channel="Cinema 2">
+    <title lang="en">Hikayet Gawaz</title>
+    <title lang="ar">حكاية جواز</title>
+    <desc lang="en">Sua`d Hussni, Shukri Sarhan. Adeela`s mother defies all maneuvers to conclude her daughter`s marriage to Mohammad after his transfer to a remote region. Tension escalates before Adeela finds an exit. (R3). سعاد حسني، شكري سرحان.تقف عزيزة بالمرصاد لمحمد حين يتم نقله إلى منطقة نائية ليلة زفافه على ابنتها عديلة ترفض أي مساومة لإتمام الزواج وتمنع الاتصال بينهما، لكن عديلة تأتي بالحل حين تدّعي الانتحار (R3).(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+  </programme>
+</tv>
